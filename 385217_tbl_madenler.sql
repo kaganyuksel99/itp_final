@@ -1,0 +1,1 @@
+CREATE TABLE `php_final`.`385217_tbl_madenler` ( `id` INT NOT NULL AUTO_INCREMENT , `maden_adi` VARCHAR(500) NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;
